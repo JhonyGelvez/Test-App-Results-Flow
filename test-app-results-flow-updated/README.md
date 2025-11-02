@@ -2,25 +2,25 @@
 
 A simple **React test system** that collects answers, calculates results, and allows PDF download using jsPDF.
 
-## ✅ Features
+## Features
 - Test with multiple questions  
 - Results screen  
 - PDF report generation  
 - Clean minimal UI  
 - State handling with Hooks  
 
-## 🛠 Tech Stack
+## Tech Stack
 - React  
 - JavaScript  
 - jsPDF  
 
-## 🚀 How to Run
+## How to Run
 ```bash
 npm install
 npm start
 ```
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 src/
 │── Test.jsx
@@ -29,5 +29,5 @@ src/
 │── index.js
 ```
 
-## 🎯 Purpose
+## Purpose
 Demonstrates test logic, flow control, and PDF generation—ideal for certification or quiz systems.
